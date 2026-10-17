@@ -1,0 +1,349 @@
+{
+  "version": "0.3.9",
+  "date": "2026-10-17",
+  "verifiedRuntimeCommit": "eb58507c3b3acc921727ef72a572b8fb819fa9f5",
+  "embeddedBuildBaseCommit": "9c0802fdfe14df6f5822798a113f2768743505a2",
+  "embeddedBuildWasDirty": true,
+  "payloadSha256": "127f00d9d16b3661ea6faead563ac68821c5106924c5c189e0a96bacb3e2315b",
+  "runtimeInputsMatched": 84,
+  "generatedPackageJsonMatches": true,
+  "method": "Git blob SHA-256 compared with signed candidate input manifest; embedded package identity compared with committed release configuration. Signed app, ZIP and DMG are preserved without rebuild.",
+  "runtimeInputs": [
+    {
+      "file": "desktop/data-directory.cjs",
+      "sha256": "4ebec537773d50c1ba3f30e20ba564d01e4b3a841812c10499110611ab39a61f"
+    },
+    {
+      "file": "desktop/dist/main.cjs",
+      "sha256": "8832ed4a35b42b9bd455e2c4c7ce8b761ea240173f5af517e76e58ad6b22d60c"
+    },
+    {
+      "file": "desktop/markdown-files.cjs",
+      "sha256": "262f57de673248507075ed4cc9f63268494dbd259283bf2d1a41ce6a61f2399e"
+    },
+    {
+      "file": "desktop/preload.cjs",
+      "sha256": "da2de91ccbbe0e20a61fe6c06f47860608a919b0c4d5b757a02887b2b331e9eb"
+    },
+    {
+      "file": "desktop/profile-directory.cjs",
+      "sha256": "480c1fc66255746ed257dcd0fcc0fb393707331ed546c1b33a18c2fe604a9b2a"
+    },
+    {
+      "file": "recovered/api.cjs",
+      "sha256": "98830aa52eb531820f5e5fc81804520dbb3ac5315c54cff8add8ddba48c4abe7"
+    },
+    {
+      "file": "recovered/content-archive.cjs",
+      "sha256": "060d2b65f1e333242d98d9750e1168dd9788fb3b22e1d3635876953c57b436f1"
+    },
+    {
+      "file": "recovered/content-vault.cjs",
+      "sha256": "da41e7057cc3f35ac82070df3f06a4fb50af93598237280ef8bcd8ef37432b96"
+    },
+    {
+      "file": "recovered/diagram-modules.cjs",
+      "sha256": "e8001e352561c9b032feb46195c508e4226696744cc8fb9de7c1e328dc1950c9"
+    },
+    {
+      "file": "recovered/guide-demo.cjs",
+      "sha256": "f5dd2c674cd22a7dd94f9b5900e7482d25d45a1ddacd309377e0932e3e68dd9b"
+    },
+    {
+      "file": "recovered/markdown-documents.cjs",
+      "sha256": "262d4942c831065d3e3a8f99fe26e18ffabb94934a0a5d6748051d007b36fd14"
+    },
+    {
+      "file": "apps/web/dist/assets/ai-models.mjs",
+      "sha256": "06a60d5c427a9ee65742c84b650fd75d3dd5a42a4e868584dcfd8a161b858a44"
+    },
+    {
+      "file": "apps/web/dist/assets/alarm-CrTN7hYf.mp3",
+      "sha256": "7697c032b331f7d8f441fb7a13aea77d0254cb0d5385d2368b63447e6a5b0add"
+    },
+    {
+      "file": "apps/web/dist/assets/archive-components.js",
+      "sha256": "43a2acc9ba202386bf319f18b065c4265573158b70ce461fb62f16161dd29868"
+    },
+    {
+      "file": "apps/web/dist/assets/article-appearance.mjs",
+      "sha256": "0734203c9b3e38968f496742633763235e2741927b494b1d957af98177d6f88b"
+    },
+    {
+      "file": "apps/web/dist/assets/canvas-layout.mjs",
+      "sha256": "00fcb3bc22ff5f3089a5aeffabdb9b84744cf7b4d19d99e9c06f41b02a467f9b"
+    },
+    {
+      "file": "apps/web/dist/assets/connector-routing.mjs",
+      "sha256": "1e215617fb002e744747afb65677179a4766d1c39d9618b6069b7bd6959b85be"
+    },
+    {
+      "file": "apps/web/dist/assets/content-types.mjs",
+      "sha256": "aaefce08f8f1927579d649ef674456ce40865fb9973ab6fe64b40315e8f48827"
+    },
+    {
+      "file": "apps/web/dist/assets/copysound-C7rWfFo8.mp3",
+      "sha256": "20cb9ab320f43f789bda15900c4f5ce254c27f9a42f4b82b12d19a425c8b01ea"
+    },
+    {
+      "file": "apps/web/dist/assets/deletesound-CzuTjU_9.mp3",
+      "sha256": "59a3da026c59c5bd2b1871dcac38847efcc1b5f3e75cfac96ed610abc5a76a4e"
+    },
+    {
+      "file": "apps/web/dist/assets/diagram-templates.js",
+      "sha256": "699a260a4bce8c190ed02f667f84738a06fe72887f0fde38f0f10bbc6d450d6b"
+    },
+    {
+      "file": "apps/web/dist/assets/directory-components.js",
+      "sha256": "7b5d1abda26dc52e7104530cae44f404df55d232a98fdc97555839e4049d71ee"
+    },
+    {
+      "file": "apps/web/dist/assets/guide-components.js",
+      "sha256": "c7eee1f040437774fbe6fec4d88c0de06a2ef9955414bd04ecffd183531d456f"
+    },
+    {
+      "file": "apps/web/dist/assets/index-DcdU7lsg.js",
+      "sha256": "a7b1cfe19fd06e745eea34fd0adc2f6a0996686c3bc9cd565faf13a1e97c2929"
+    },
+    {
+      "file": "apps/web/dist/assets/index-Dri_tkLl.css",
+      "sha256": "b7389d0442fb79553d842bfcc20d97b92a2aa78cfe5ec526ea63728f60bc8d7c"
+    },
+    {
+      "file": "apps/web/dist/assets/markdown-workspace.js",
+      "sha256": "64063c4042a79e406a80aa760adf51beb5dea5637184f07a10f84b78bedaea2d"
+    },
+    {
+      "file": "apps/web/dist/assets/overrides.css",
+      "sha256": "89c12f86428a7fa9b342f1665ed18e6ab7eb8e53cf5de4d4a556857c8c15d547"
+    },
+    {
+      "file": "apps/web/dist/assets/panel-drag.js",
+      "sha256": "c1a93577926703870f8c65ad82d547874aa4ab9a80a90a19ed6abab67414d9a9"
+    },
+    {
+      "file": "apps/web/dist/assets/recovered-app.js",
+      "sha256": "30ab7b5150f987a5702fdf4361d8d15470a596383a5fe1968e6cd740f48baf72"
+    },
+    {
+      "file": "apps/web/dist/assets/settings-components.js",
+      "sha256": "197d83a08ea26ca369d4b67e8653ddf6c439e546f80fd3e02cc3ba7484fa5c53"
+    },
+    {
+      "file": "apps/web/dist/assets/vendor/DOMPurify-LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "file": "apps/web/dist/assets/vendor/manifest.json",
+      "sha256": "412bc541ca06eeceb80f5a0e7d8874479e753fd4ef8ae2f5dd8d323c9010fca9"
+    },
+    {
+      "file": "apps/web/dist/assets/vendor/marked-LICENSE",
+      "sha256": "8e3a3f82f59a60958f56ca08f445647c32a4733dc7ca6c2c46f6eb898471ab9c"
+    },
+    {
+      "file": "apps/web/dist/assets/vendor/marked.mjs",
+      "sha256": "930457e5d55439f90465015cc507d3323366e80df5f7a701b61189d4e1046bda"
+    },
+    {
+      "file": "apps/web/dist/assets/vendor/purify.mjs",
+      "sha256": "60c5d5ccbb466de3de3ba863461a92bf134f8c156cef7992da43e0f659bc5cbd"
+    },
+    {
+      "file": "apps/web/dist/index.html",
+      "sha256": "c954954148af8285025bfd899f33490a7923d763211380230623acb90c4303e9"
+    },
+    {
+      "file": "apps/web/src/diagram-templates.js",
+      "sha256": "699a260a4bce8c190ed02f667f84738a06fe72887f0fde38f0f10bbc6d450d6b"
+    },
+    {
+      "file": "apps/web/src/ai-models.mjs",
+      "sha256": "06a60d5c427a9ee65742c84b650fd75d3dd5a42a4e868584dcfd8a161b858a44"
+    },
+    {
+      "file": "apps/web/src/article-appearance.mjs",
+      "sha256": "0734203c9b3e38968f496742633763235e2741927b494b1d957af98177d6f88b"
+    },
+    {
+      "file": "apps/web/src/content-types.mjs",
+      "sha256": "aaefce08f8f1927579d649ef674456ce40865fb9973ab6fe64b40315e8f48827"
+    },
+    {
+      "file": "apps/web/src/canvas-layout.mjs",
+      "sha256": "00fcb3bc22ff5f3089a5aeffabdb9b84744cf7b4d19d99e9c06f41b02a467f9b"
+    },
+    {
+      "file": "apps/web/src/connector-routing.mjs",
+      "sha256": "1e215617fb002e744747afb65677179a4766d1c39d9618b6069b7bd6959b85be"
+    },
+    {
+      "file": "resources/migrations/001_initial.sql",
+      "sha256": "bc6ace81fede523ee0ec7658180608bb9d16fca4218833435e8a2e2c37b28e09"
+    },
+    {
+      "file": "resources/migrations/002_journal_rituals.sql",
+      "sha256": "8b28fa9be8d8c5df9e085d5da32df1221e6336fa4fee330eacba6d6cb0c484ec"
+    },
+    {
+      "file": "resources/migrations/003_media_and_decorations.sql",
+      "sha256": "b4bc25a138f5bb12d40cb177bd7ce08b74b67e3185d003585ee001fed481e812"
+    },
+    {
+      "file": "resources/migrations/004_journal_playbooks.sql",
+      "sha256": "868eeb76009123296c0dfecf77be37155341b877988425de038d733b78c162fc"
+    },
+    {
+      "file": "resources/migrations/005_persistence_crud.sql",
+      "sha256": "4282c4a58224b614d9ad9e149290f70dc438120e8ba7b5b185e4e1f77bb6db7d"
+    },
+    {
+      "file": "resources/migrations/006_capture_library.sql",
+      "sha256": "3c9a172941190b2158ef769c379ac40bebf51dfeed5d72d067bb4d93063e3668"
+    },
+    {
+      "file": "resources/migrations/007_life_loops.sql",
+      "sha256": "ca5ceddb60cb13214a33583341f5a9779cc6ad6cf37536da70046b0818fa6f1f"
+    },
+    {
+      "file": "resources/migrations/008_preferences.sql",
+      "sha256": "c5a78a2e12e8ac34bb44d2a85f40d55883bee6ccefa754a83ddcc85fb0e4885c"
+    },
+    {
+      "file": "resources/migrations/009_dopamine_themes.sql",
+      "sha256": "ee664ebb00e1552ee27dd328065fffaf1df99bbfdf8e8621d129169c8eda6ae0"
+    },
+    {
+      "file": "resources/migrations/010_canvas_layers.sql",
+      "sha256": "13466d8352503850fc7016bd069c1bbdec1051a51a1b6df187c4326eadd234bb"
+    },
+    {
+      "file": "resources/migrations/011_canvas_strokes.sql",
+      "sha256": "f0f33eec63d2d6fa984c879be6f7917540f776d3cb22effaa01e64e13bac5add"
+    },
+    {
+      "file": "resources/migrations/012_canvas_stroke_decorations.sql",
+      "sha256": "5737182cf4429fabc3594c16757f106d9d5f90db5334064b7fc65dba6438faac"
+    },
+    {
+      "file": "resources/migrations/013_multiple_image_references.sql",
+      "sha256": "fa1cbcc143705e85df55fca34f3ad4d6663693752cdac72e40069e9fdd36c4aa"
+    },
+    {
+      "file": "resources/migrations/014_feature_settings.sql",
+      "sha256": "6900f9d59e45eccfa08b2431beda889d3b7e364dc7413298cfe8b231bd59d3e6"
+    },
+    {
+      "file": "resources/migrations/015_daily_page_titles.sql",
+      "sha256": "dd57ab65764ae371df8024d6b3ab025b7ed5592bbdecfb9b0feddd87e07ab467"
+    },
+    {
+      "file": "resources/migrations/016_stale_today_titles.sql",
+      "sha256": "6558905d5e08c44138a5f23865b51ddfe7830f2b4d308795d39e05834d242dbe"
+    },
+    {
+      "file": "resources/migrations/017_note_font_size.sql",
+      "sha256": "1b7c9429cf11381bdd3f4b8349a281c37ce6be529697d47afd2d92859784ddd0"
+    },
+    {
+      "file": "resources/migrations/018_long_notes.sql",
+      "sha256": "4dd8a77e29478807803d28104dce617ee3dad1bd5cd756f23f57766e312e27f0"
+    },
+    {
+      "file": "resources/migrations/019_ai_provider.sql",
+      "sha256": "af8f52ce0a29dee1a43e72a4dd05f5bddb6bc0df258ed357534010be90d3ef4f"
+    },
+    {
+      "file": "resources/migrations/020_ai_keychain_metadata.sql",
+      "sha256": "0cbb9e9a845673a411af18bae36af836aa355a4863c4be8bc40f71e643032e78"
+    },
+    {
+      "file": "resources/migrations/021_resource_lifecycle_receipts.sql",
+      "sha256": "844b73e6b24f672ee5c20ccbd57df72e4c8fa35f1c49dce339ee9183152c9db6"
+    },
+    {
+      "file": "resources/migrations/022_long_note_recovery.sql",
+      "sha256": "7ef79bbc2a65f7fb178c69647f14c0a56c0c858ddcb666243a8915ee2b6e5741"
+    },
+    {
+      "file": "resources/migrations/023_board_types.sql",
+      "sha256": "290f4f2b73321c8cd1ee70e33ccae697c6aaf921950c7a45842f996e09513751"
+    },
+    {
+      "file": "resources/migrations/024_item_search_index.sql",
+      "sha256": "ea1304d5425e8139e1cbcfc7bc7607058a47fb99fd6f69996a0d631de8cb21fa"
+    },
+    {
+      "file": "resources/migrations/025_interaction_sounds.sql",
+      "sha256": "ad91126a823d104a4a18ba4e857909aec7243e72353ff6e14c94f5cad79d3e2b"
+    },
+    {
+      "file": "resources/migrations/026_interface_language.sql",
+      "sha256": "8b424d03e7fadd40db03998c14d08b4ea9575b3b1a6c7b828bb019765591d612"
+    },
+    {
+      "file": "resources/migrations/027_directory_tags.sql",
+      "sha256": "1d86bb7f0cb41e5aa610ee3e57fad73801b499144c4cc57a15bb472ecb97b622"
+    },
+    {
+      "file": "resources/migrations/028_canvas_stamp_labels.sql",
+      "sha256": "06c5460443ef27e87d3b043ef09e3c8c79c9a5fc67c10df687c69e54b9d2d763"
+    },
+    {
+      "file": "resources/migrations/029_content_vault.sql",
+      "sha256": "a20d80ce440cd5120296ff0c8bb3216eb6fe421d5019754209e91b742059dc34"
+    },
+    {
+      "file": "resources/migrations/030_sticker_binding.sql",
+      "sha256": "7bb11dff4c300aff7e19d6f540c61446720b15d52e7cc8676163d6ee69620a66"
+    },
+    {
+      "file": "resources/migrations/031_flow_bridge_links.sql",
+      "sha256": "22a0ef71b0726c971314f191b8ecc4858395d938722080cf072d6f372c9635fe"
+    },
+    {
+      "file": "resources/migrations/032_link_styles.sql",
+      "sha256": "8b276f9b0e191da61c38a8f1ba3615934b64d7028a80d4cfe872dd7e35b5d76d"
+    },
+    {
+      "file": "resources/migrations/033_content_archives.sql",
+      "sha256": "4cfb58df57f0985f79d755a4f0933de6e7d1d21327ba4981766084174d0316d2"
+    },
+    {
+      "file": "resources/migrations/034_markdown_documents.sql",
+      "sha256": "afd4cfc4b5f8a183b558fb078084a46c14c98e5e934888ca10a84b5d30b51b21"
+    },
+    {
+      "file": "resources/migrations/035_article_appearance.sql",
+      "sha256": "a547cd99efc9e424108e068735f2edfe515f3dccbbcef602562138a2ab61392b"
+    },
+    {
+      "file": "resources/migrations/036_default_ai_model.sql",
+      "sha256": "d5c7ecacd14be62bd6c19856181dbf309b33543a7071c1c00c175d91a6a8a041"
+    },
+    {
+      "file": "resources/vision-ocr",
+      "sha256": "c97328e40d1ef43995aa6010a40de888d3f5b98c55b7a8ea7a65d41316644aa0"
+    },
+    {
+      "file": "build/entitlements.release.plist",
+      "sha256": "5f5b909647d1977e4e534d48cb630c03bf874a61c53068695f871e933532512e"
+    },
+    {
+      "file": "build/icon-tray.png",
+      "sha256": "b4bdfaa443b01774544b9b5c3950fa4b69ecb1d13caeaabe68a2e774ce00b744"
+    },
+    {
+      "file": "build/icon-tray.svg",
+      "sha256": "4dbaf3730917ab3fa835c80ce7a8102b3c47dcc5d537c44b0e0884066437ee12"
+    },
+    {
+      "file": "build/icon.icns",
+      "sha256": "861f3be3a742449630215d00208ed53bbdc6a6e7212aea5baf0d80f0509eb65a"
+    },
+    {
+      "file": "build/icon.svg",
+      "sha256": "44c562b24d699c1012b96923b884712fb9f91841d92c22b9e441d85a6c4cee85"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": "0.3.9",
+  "productName": "多巴胺便利贴",
+  "date": "2026-10-17",
+  "platform": "macOS",
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "appId": "com.d5shijie.visualjournal",
+  "channel": "website-download",
+  "payloadSha256": "127f00d9d16b3661ea6faead563ac68821c5106924c5c189e0a96bacb3e2315b",
+  "sourceBinding": {
+    "verifiedRuntimeCommit": "eb58507c3b3acc921727ef72a572b8fb819fa9f5",
+    "embeddedBuildBaseCommit": "9c0802fdfe14df6f5822798a113f2768743505a2",
+    "embeddedBuildWasDirty": true,
+    "runtimeInputsMatched": 84,
+    "provenance": "provenance.json"
+  },
+  "notarization": {
+    "application": "Accepted",
+    "dmg": "Accepted",
+    "ticketsStapled": true
+  },
+  "validation": {
+    "nodeTests": 25,
+    "browserSuites": 24,
+    "browserAssertions": 390,
+    "distributionChecks": 11,
+    "directInstalledRuntimeChecks": 16,
+    "nativeInteractiveChecks": 7,
+    "nativeDirectoryPickerChecks": 5,
+    "physicalIntelMacTested": false
+  },
+  "assets": [
+    {
+      "filename": "Dopamine-Note-0.3.9-universal.dmg",
+      "kind": "dmg",
+      "bytes": 227089509,
+      "sha256": "a79e047726d24d25a2fe10ea24f874db12f7975ec8cb1094cd64c76a11fdd662",
+      "downloadUrl": "https://github.com/d6shijie/dopamine-note-releases/releases/download/v0.3.9/Dopamine-Note-0.3.9-universal.dmg"
+    },
+    {
+      "filename": "Dopamine-Note-0.3.9-universal.zip",
+      "kind": "zip",
+      "bytes": 207562657,
+      "sha256": "1d465b84c57938152b79ce6fa219772109406f9d05e71c37c0705b8bdb206f45",
+      "downloadUrl": "https://github.com/d6shijie/dopamine-note-releases/releases/download/v0.3.9/Dopamine-Note-0.3.9-universal.zip"
+    }
+  ],
+  "englishName": "Dopamine Note",
+  "applicationBundleName": "多巴胺便利贴.app",
+  "distributionRepository": "d6shijie/dopamine-note-releases",
+  "releaseTag": "v0.3.9",
+  "releaseUrl": "https://github.com/d6shijie/dopamine-note-releases/releases/tag/v0.3.9"
+}
